@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Elena,
 - 👀 I’m interested in Python, SQL, machine learning, data analysis, foreign languages
-- 🌱 I’m currently learning Python and have already taken a short course on data analysis on top of my engineering degree.
-- 💞️ I’m looking to collaborate on any projects which could help me broaden my knowledge and gain more experience, would be glad to find friends with mutual interests
-- 📫 How to reach me: instagram: @e_molochnikova91, telegram: t.me/youwontforget
+- 🌱 I’m learning Python
+- 💞️ I’m looking forward to collaborating on any projects which could help me broaden my knowledge and gain more experience, would be glad to find friends with mutual interests
+- 📫 How to reach me: instagram: @e_molochnikova91, telegram: t.me/forgetmenot1991
